@@ -50,6 +50,14 @@ screenshot  :<img width="1583" alt="image" src="https://github.com/singleplac/Un
 
    Tutorial practice from https://www.bilibili.com/read/cv14011394/?spm_id_from=333.999.0.0
 
+   https://www.bilibili.com/opus/593246755809412261?from=search&spm_id_from=333.337.0.0
+
+   https://www.bilibili.com/opus/594355956884230446?from=search&spm_id_from=333.337.0.0
+   
+   https://www.bilibili.com/opus/596947802147741932?from=search&spm_id_from=333.337.0.0
+
+   original tutorial: http://gregandaduck.blogspot.com/2014/12/how-to-make-game-like-fez-in-unity-part.html
+
    demo video : https://github.com/user-attachments/assets/b66706a2-a484-4e1f-a88b-9d1be3785e36
 
    screenshot: <img width="1467" alt="image" src="https://github.com/user-attachments/assets/91085ac9-0866-44b2-9be0-4c573fbd5b2a">
