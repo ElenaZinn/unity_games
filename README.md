@@ -50,7 +50,9 @@ screenshot  :<img width="1583" alt="image" src="https://github.com/singleplac/Un
 
    Tutorial practice from https://www.bilibili.com/read/cv14011394/?spm_id_from=333.999.0.0
 
-   screenshot: <img width="1129" alt="image" src="https://github.com/user-attachments/assets/ea1a7947-361e-4687-a18a-357c1fbf3914">
+   demo video : https://github.com/user-attachments/assets/b66706a2-a484-4e1f-a88b-9d1be3785e36
+
+   screenshot: <img width="1467" alt="image" src="https://github.com/user-attachments/assets/91085ac9-0866-44b2-9be0-4c573fbd5b2a">
 
 
 
