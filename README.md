@@ -42,15 +42,14 @@ screenshot  :<img width="1583" alt="image" src="https://github.com/singleplac/Un
 
    Tutorial practice from : [https://www.youtube.com/watch?v=-meHJLaP_QU&list=LL&index=16](https://www.youtube.com/watch?v=8NCmjIqtRNs&list=LL&index=24)
 
-   screenshot: <img width="1172" alt="image" src="https://github.com/user-attachments/assets/2ef8210f-9e6e-4eeb-8c87-d22fd4aaad1a">
+   screenshot: https://github.com/user-attachments/assets/2ef8210f-9e6e-4eeb-8c87-d22fd4aaad1a
 
    
 7. Cube - Optical Illusion Games
 
    Tutorial practice from https://www.bilibili.com/read/cv14011394/?spm_id_from=333.999.0.0
 
-   screenshot: <img width="1172" alt="image" src="https://github.com/user-attachments/assets/d3cce6c6-579a-4668-9107-a5b1cc175283">
-   
+   screenshot: https://github.com/user-attachments/assets/d3cce6c6-579a-4668-9107-a5b1cc175283
 
 
 
